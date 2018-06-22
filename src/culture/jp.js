@@ -40,7 +40,7 @@
 		"footerlabelgithub": "GitHubリポジトリ",
 		"footerlabelgithubzip": "zip",
 		"footerlabelsig": "sig",
-		"footerlabelcopyright1": "Copyright bitaddress.org, The Dash Developers.",
+		"footerlabelcopyright1": "Copyright bitaddress.org, The cPay Developers.",
 		"footerlabelcopyright2": "JavaScriptのコピーライト情報はソースに含まれています。",
 		"footerlabelnowarranty": "保障はありません。",
 
@@ -65,7 +65,7 @@
 		"statuslabelprotocolbad2": "download", //TODO: please translate
 		"statuslabelprotocolbad3": "the zip file from GitHub and run this generator offline as a local html file.", //TODO: please translate
 		"statusokprotocolbad": "OK", //TODO: please translate
-		"statuslabelkeypool1": "This is a log of all the Dash Addresses and Private Keys you generated during your current session. Reloading the page will create a new session.", //TODO: please translate
+		"statuslabelkeypool1": "This is a log of all the cPay Addresses and Private Keys you generated during your current session. Reloading the page will create a new session.", //TODO: please translate
 		"statuskeypoolrefresh": "Refresh", //TODO: please translate
 		"statusokkeypool": "OK", //TODO: please translate
 
@@ -74,8 +74,8 @@
 		"singleprint": "印刷",
 		"singlelabelbitcoinaddress": "Dashアドレス",
 		"singlelabelprivatekey": "プライベートキー (WIF形式)",
-		"singletip1": "<b>Dashウォレットとは</b> Dashのアドレスと対応するプライベートキーを組み合わせたものです。新しいアドレスがブラウザー上で生成され、上記に表示されています。",
-		"singletip2": "<b>このウォレットを守るためには</b> DashアドレスとDashプライベートキーを印刷するなどの手段で記録しなければいけません。プライベートキーが無いとペアになっているアドレスに送られたDashが使えないので、人に晒されないような方法でプライベートキーのコピーを取り、大事に保管して下さい。このサイトはこのプライベートキーの保存はしません。PGPをご存知の方は、このサイトを1つのhtmlファイルで落とすことができるので、このサイトのhtmlファイルのSHA256ハッシュとサイトのフッターにデジタル署名されたメッセージに入ったハッシュを比べて不正にいじられていないかをお確かめいただけます。このページを閉じたり、離れたり、”新アドレス生成”を押すと現在表示されているプライベートキーは消え、新規アドレスが生成されるので、ご使用の場合は必ず何らかの手段で記録しておいて下さい。プライベートキーは秘密にしてください。共有されますと、対応するDashアドレスに存在するコインが全て共有者間で利用可能となります。ウォレット情報を印刷したら、濡れないようにジップロックに入れましょう。紙幣と同様に扱うよう心がけてください。",
+		"singletip1": "<b>Dashウォレットとは</b> cPayのアドレスと対応するプライベートキーを組み合わせたものです。新しいアドレスがブラウザー上で生成され、上記に表示されています。",
+		"singletip2": "<b>このウォレットを守るためには</b> cPayアドレスとDashプライベートキーを印刷するなどの手段で記録しなければいけません。プライベートキーが無いとペアになっているアドレスに送られたDashが使えないので、人に晒されないような方法でプライベートキーのコピーを取り、大事に保管して下さい。このサイトはこのプライベートキーの保存はしません。PGPをご存知の方は、このサイトを1つのhtmlファイルで落とすことができるので、このサイトのhtmlファイルのSHA256ハッシュとサイトのフッターにデジタル署名されたメッセージに入ったハッシュを比べて不正にいじられていないかをお確かめいただけます。このページを閉じたり、離れたり、”新アドレス生成”を押すと現在表示されているプライベートキーは消え、新規アドレスが生成されるので、ご使用の場合は必ず何らかの手段で記録しておいて下さい。プライベートキーは秘密にしてください。共有されますと、対応するDashアドレスに存在するコインが全て共有者間で利用可能となります。ウォレット情報を印刷したら、濡れないようにジップロックに入れましょう。紙幣と同様に扱うよう心がけてください。",
 		"singletip3": "<b>このウォレットにコインを追加 : </b> 他の人から自分のDashアドレスに送ってもらう。",
 		"singletip4": "<b>残高照会は</b> explorer.dash.orgに行き、Dashアドレスを入力してお調べ下さい。",
 		"singletip5": "<b>Dashを使おう。</b> 送金するには、このページで生成したプライベートキーをパソコン・スマホ端末にあるウォレットアプリなどに取り込んで使えます。しかし、その時点でそのアドレスが取り込んだウォレットの他のアドレスと融合してしまい、この一つのアドレスのバックアップだけじゃビットコインを保管することはできなくなります。取り込み先のウォレットを強いパスワードで暗号化し、バックアップして、安全に扱って下さい。ビットコインの考案者「サトシさん」曰く、「一度作ったウォレットを、空にしたとしても、削除しない方が良い。」(メールアドレスと同じく、いつ昔の友達や親戚から古いアドレス宛にビットコインを送ってくるかわかりませんから。)",
@@ -103,7 +103,7 @@
 		"bulklabela2li1": "大量生成タブで大量のDashを生成(10,000+でも可)。出てくるCSVテキストをコピーして、安全なテキストエディターで貼り付けて、安全な場所に保存しておいて下さい。一つバックアップを取り、別の場所で保管しておく(強いパスワードのかかったzipなどで)",
 		"bulklabela2li2": "Dashアドレスをウェブサーバーにアップロード。プライベートキーはアップロードしないで下さい。ユーザーに見せたい宛先用のアドレスのみをアップロードして下さい。",
 		"bulklabela2li3": "サイトのショッピングカート機能にDashのリンクを追加して下さい。クリックされた時、お値段と先ほどアップしたDashアドレスが順番に出てくるようにしておいて下さい(1取引1アドレス)。注文の情報と一緒に、このアドレスも一緒に保存して、後で紐付けられるようにしておいて下さい。",
-		"bulklabela2li4": "接下来你需要一个收款通知，联系相关服务的供应商（谷歌搜索“Dash payment notification”），它们可以监视指定地址的资金变动，并通过WebAPI、短信、电邮或者其他方式来提醒你，你也可以通过编程使一切自动化。在http://explorer.dash.org/address/地址 或者 https://bchain.info/Dash/ http://insight.dash.siampm.com/ 查看交易确认。通常情况下，你能够在30秒之内看见交易，而根据你对安全的要求不同，你可能需要10分钟到1小时的时间等待交易确认。",
+		"bulklabela2li4": "接下来你需要一个收款通知，联系相关服务的供应商（谷歌搜索“cPay payment notification”），它们可以监视指定地址的资金变动，并通过WebAPI、短信、电邮或者其他方式来提醒你，你也可以通过编程使一切自动化。在http://explorer.dash.org/address/地址 或者 https://bchain.info/Dash/ http://insight.dash.siampm.com/ 查看交易确认。通常情况下，你能够在30秒之内看见交易，而根据你对安全的要求不同，你可能需要10分钟到1小时的时间等待交易确认。",
 		"bulklabela2li5": "送られたDashはブロックチェーンにて安全に保管されます。送金するには1番で作成したウォレットを何らかのDashソフトに取り込んでご利用下さい。",
 
 		// brain wallet html
@@ -153,7 +153,7 @@
 		"detailview": "詳細を表示",
 		"detailprint": "印刷",
 		"detaillabelnote1": "Dashプライベートキーはあなたにしか分からない秘密の鍵。色々な形式で表示することができ、下記で表示しているのはDashアドレス、パブリックキー、プライベートキー、そして複数の形式でプライベートキーを表示します。(WIF, WIFC, HEX, B64)",
-		"detaillabelnote2": "Dash v0.6より圧縮したパブリックキーを保存している。なお、importprivkey / dumpprivkeyのコマンドを用いてプライベートキーのインポートとエクスポートもできる。エクスポートされるプライベートキーの形式はウォレットの作成時期とバージョンによって異なってくる。",
+		"detaillabelnote2": "cPay v0.6より圧縮したパブリックキーを保存している。なお、importprivkey / dumpprivkeyのコマンドを用いてプライベートキーのインポートとエクスポートもできる。エクスポートされるプライベートキーの形式はウォレットの作成時期とバージョンによって異なってくる。",
 		"detaillabelbitcoinaddress": "Dashアドレス",
 		"detaillabelbitcoinaddresscomp": "Dashアドレス(圧縮)",
 		"detaillabelpublickey": "パブリックキー (130文字[0-9A-F])",

@@ -40,7 +40,7 @@
 		"footerlabelgithub": "GitHub页面",
 		"footerlabelgithubzip": "zip",
 		"footerlabelsig": "sig",
-		"footerlabelcopyright1": "Copyright bitaddress.org, The Dash Developers.",
+		"footerlabelcopyright1": "Copyright bitaddress.org, The cPay Developers.",
 		"footerlabelcopyright2": "JavaScript的版权信息已经包含在源代码中。",
 		"footerlabelnowarranty": "No warranty",
 
@@ -65,7 +65,7 @@
 		"statuslabelprotocolbad2": "download", //TODO: please translate
 		"statuslabelprotocolbad3": "the zip file from GitHub and run this generator offline as a local html file.", //TODO: please translate
 		"statusokprotocolbad": "OK", //TODO: please translate
-		"statuslabelkeypool1": "This is a log of all the Dash Addresses and Private Keys you generated during your current session. Reloading the page will create a new session.", //TODO: please translate
+		"statuslabelkeypool1": "This is a log of all the cPay Addresses and Private Keys you generated during your current session. Reloading the page will create a new session.", //TODO: please translate
 		"statuskeypoolrefresh": "Refresh", //TODO: please translate
 		"statusokkeypool": "OK", //TODO: please translate
 
@@ -103,7 +103,7 @@
 		"bulklabela2li1": "    在批量钱包选项卡预生成大量比特币地址（比如，一万个）。把生成的逗号分隔值清单（CSV）复制到一个安全的环境中，注意备份。",
 		"bulklabela2li2": "    把地址列表导入到Web服务器上（注意，<b>不要</b>把私钥部分也一并导入，否则会有被盗的危险）",
 		"bulklabela2li3": "    为你的客户提供一个比特币支付的接口。每当一名客户选择使用比特币支付，你就从你的数据库中提取一个地址，作为该客户专用的“付款地址”，并保存订单信息。",
-		"bulklabela2li4": "接下来你需要一个收款通知，联系相关服务的供应商（谷歌搜索“Dash payment notification”），它们可以监视指定地址的资金变动，并通过WebAPI、短信、电邮或者其他方式来提醒你，你也可以通过编程使一切自动化。在http://explorer.dash.org/address/地址 或者 https://bchain.info/Dash/ http://insight.dash.siampm.com/地址 查看交易确认数。通常情况下，你能够在30秒之内看见交易，而根据你对安全的要求不同，你可能需要10分钟到1小时的时间等待交易确认。",
+		"bulklabela2li4": "接下来你需要一个收款通知，联系相关服务的供应商（谷歌搜索“cPay payment notification”），它们可以监视指定地址的资金变动，并通过WebAPI、短信、电邮或者其他方式来提醒你，你也可以通过编程使一切自动化。在http://explorer.dash.org/address/地址 或者 https://bchain.info/Dash/ http://insight.dash.siampm.com/地址 查看交易确认数。通常情况下，你能够在30秒之内看见交易，而根据你对安全的要求不同，你可能需要10分钟到1小时的时间等待交易确认。",
 		"bulklabela2li5": "比特币在区块链上稳定之后，你就可以使用在第一步中生成的私钥来花费它们。",
 
 		// brain wallet html
@@ -152,7 +152,7 @@
 		"detailview": "显示详情",
 		"detailprint": "打印",
 		"detaillabelnote1": "比特币私钥应当是只有你知道的保密代码，这段代码有许多种不同的编码格式。下面会给出此私钥对应的地址、公钥，以及最流行的私钥编码格式(WIF, WIFC, HEX, B64, MINI)",
-		"detaillabelnote2": "Dash v0.6+ 存储压缩格式的公钥。现在客户端支持导入/导出私钥，命令是importprivkey/dumpprivkey，导出的格式可能因钱包文件版本而不同。",
+		"detaillabelnote2": "cPay v0.6+ 存储压缩格式的公钥。现在客户端支持导入/导出私钥，命令是importprivkey/dumpprivkey，导出的格式可能因钱包文件版本而不同。",
 		"detaillabelbitcoinaddress": "比特币地址",
 		"detaillabelbitcoinaddresscomp": "比特币地址(压缩格式)",
 		"detaillabelpublickey": "公钥 (130位[0-9A-F]字符)",

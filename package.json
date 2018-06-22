@@ -1,8 +1,7 @@
 {
-  "name": "paper.dash.org",
-  "version": "3.3.0-dash",
-  "sha256sum": "4f5254b4a6791c8d277bed6ea3d7928e1721a8068dffda9441b5c6bb4bfb7006",
-  "description": "Open Source JavaScript Client-Side Dash Wallet Generator",
+  "name": "paper.cpay.online",
+  "version": "3.3.0-cpay",
+  "description": "Open Source JavaScript Client-Side CPAY Wallet Generator",
   "main": "Gruntfile.js",
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -16,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dashpay/paper.dash.org"
+    "url": "git://github.com/Igor-san/paper.cpay.online"
   },
   "keywords": [
-    "dash address wallet generator"
+    "cpay address wallet generator"
   ],
-  "author": "dash",
+  "author": "cpay",
   "contributors": [
     {
       "name": "pointbiz"
@@ -30,6 +29,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/dashpay/paper.dash.org/issues"
+    "url": "https://github.com/Igor-san/paper.cpay.online/issues"
   }
 }
